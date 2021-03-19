@@ -1,0 +1,14 @@
+quizás lo más interesante es ir contando los pasos, para no perderme.
+estoy en mi segundo dia de curso de programación, con lo que, vamos a practicar!
+1.- hacemos un init
+2.- añadimos un archivo
+3.- hacemos un commit para crear repositorio
+4.- creo otra rama -b feature/ejemplo
+5.- esta rama se ha creado clonando master
+6.- hago cambios aquí y los guardo
+7.- hago un commit para guardar los cambios
+8.- vuelvo a master y compruebo que los cambios se han hecho en la rama feature y no en master
+9.- subo mi rama master a github
+10.- subo mi rama feature a github
+11.- voy a hacer un merge
+12.- voy a hacer un pull
