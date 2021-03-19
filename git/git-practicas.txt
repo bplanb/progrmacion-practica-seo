@@ -1,3 +1,0 @@
-añado un texto de prácticas. VERSIÓN A
-Esto es mi primera práctica en Git.
-Y acabo de cambiar de rama, con lo que voy a commitear esta rama para ver el resultado.
