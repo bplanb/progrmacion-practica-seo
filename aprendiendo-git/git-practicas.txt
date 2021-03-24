@@ -22,8 +22,8 @@ GIT CHECKOUT - cambiar de rama
 GIT CHECKOUT -B NOMBRECARPETANUEVARAMA/SIEMPRELLEVAUNFICHERODENTRO
 GIT ADD . - guardar los cambios de la rama en la que estás
 GIT commit -M "PONGO UN MENSAJE DE LO QUE HE CAMBIADO EN EL COMMIT" - subir el CAMBIADO
-GIT pull - unificar la info de las ramas. Lo hace en la rama en la que estás. Ojo con esto. 
+GIT pull - descargar la info de remoto a local. Lo hace en la rama en la que estás. Ojo con esto. 
 GIT PUSH -u origin (nombrerama)- súbe lo que tengo en esta rama a github
-GIT merge
+GIT merge - integrar el contenido de una rama en otra.
 
 
