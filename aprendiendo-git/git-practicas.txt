@@ -12,3 +12,18 @@ estoy en mi segundo dia de curso de programación, con lo que, vamos a practicar
 10.- subo mi rama feature a github
 11.- voy a hacer un merge
 12.- voy a hacer un pull
+
+pasos
+GIT init
+GIT STATUS - saber en qué rama estamos
+cd (tabulador) - cambia de carpetata
+GIT ADD - guardar cambios
+GIT CHECKOUT - cambiar de rama
+GIT CHECKOUT -B NOMBRECARPETANUEVARAMA/SIEMPRELLEVAUNFICHERODENTRO
+GIT ADD . - guardar los cambios de la rama en la que estás
+GIT commit -M "PONGO UN MENSAJE DE LO QUE HE CAMBIADO EN EL COMMIT" - subir el CAMBIADO
+GIT pull - unificar la info de las ramas. Lo hace en la rama en la que estás. Ojo con esto. 
+GIT PUSH -u origin (nombrerama)- súbe lo que tengo en esta rama a github
+GIT merge
+
+
